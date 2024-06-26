@@ -19,7 +19,7 @@ This project is a WSGI application that provides functionalities similar to the 
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/eniangnsa/wsgi-app.git
     cd time_service
     ```
 
